@@ -1,6 +1,6 @@
 ## Development enviroment installation
 
-This firmware is built with **esp-idf 4.1 version**
+This firmware is built with **esp-idf 4.4 version**
 
 ### Installation
 Read the Espressif's [Official documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html#installation-step-by-step) to install the enviroment
