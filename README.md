@@ -33,3 +33,5 @@ Read the Espressif's [Official documentation](https://docs.espressif.com/project
     ```python
     idf.py full_clean
     ```
+
+*test
